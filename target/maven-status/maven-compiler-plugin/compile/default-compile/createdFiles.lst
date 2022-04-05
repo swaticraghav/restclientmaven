@@ -1,0 +1,9 @@
+com\apache\http\client\GetAll.class
+com\core\java\apps\GetAll.class
+com\core\java\apps\PutById.class
+com\core\pojo\Model.class
+com\core\java\apps\GetById.class
+com\core\java\apps\Post.class
+com\core\utils\Constant.class
+com\jersey\client\GetAll.class
+com\core\java\apps\DeleteById.class
